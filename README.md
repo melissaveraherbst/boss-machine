@@ -13,7 +13,7 @@
 </div>
 
 An API to serve information to a Boss Machine, a unique management application for today’s most accomplished (evil) entrepreneurs! 🦹🏼‍♀️  
-Manage your ‘minions’, your brilliant ‘million dollar ideas’, and to handle all the annoying meetings that keep getting added to your busy schedule.
+Manage your ‘minions’, your brilliant ‘million dollar ideas’, and handle all the annoying meetings that keep getting added to your busy schedule 📅.
 
 ## 🎯 Project Goal
 
@@ -34,6 +34,13 @@ You should use Google Chrome (at least version 60) or Firefox (at least version 
 * GET /api/minions/:minionId to get a single minion by id.  
 * PUT /api/minions/:minionId to update a single minion by id.  
 * DELETE /api/minions/:minionId to delete a single minion by id.
+<div>  
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/844f3e3f-0672-4a79-99c7-b18b102b86cf" alt="" width="32%"/>
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/1204ee3b-c834-464a-9c36-efdfdbc8d576" alt="" width="32%"/>  
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/3e18e7b5-ea6a-49d1-8d0c-b3cdbff0221f" alt="" width="32%"/>  
+</div>  
+
+<br>
 
 **/api/ideas**
 
@@ -41,13 +48,22 @@ You should use Google Chrome (at least version 60) or Firefox (at least version 
 * POST /api/ideas to create a new idea and save it to the database.  
 * GET /api/ideas/:ideaId to get a single idea by id.  
 * PUT /api/ideas/:ideaId to update a single idea by id.  
-* DELETE /api/ideas/:ideaId to delete a single idea by id.  
+* DELETE /api/ideas/:ideaId to delete a single idea by id.
+<div> 
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/d7f6195a-8037-4331-bcae-90e0e2a9da76" alt="" width="32%"/>
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/3cdcaed0-b0f7-4b26-a271-d14fef89acdb" alt="" width="32%"/>
+</div>
+
+<br>
 
 **/api/meetings**
 
 * GET /api/meetings to get an array of all meetings.
 * POST /api/meetings to create a new meeting and save it to the database.
 * DELETE /api/meetings to delete all meetings from the database.
+<>
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/597425c8-6154-4ef3-a48e-fde791b4f022" alt="" width="32%"/>
+</>
 
 ## 🧪 Testing
 A testing suite has been provided, checking for all essential functionality and edge cases.
