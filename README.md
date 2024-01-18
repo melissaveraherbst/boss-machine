@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-grey?style=flat-square&logo=css3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=node.js)
+![Static Badge](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)
 ![Static Badge](https://img.shields.io/badge/Mocha-grey?style=flat-square&logo=mocha)
 ![Static Badge](https://img.shields.io/badge/Codecademy%20Project-grey?style=flat-square&logo=codecademy)
 </div>
@@ -17,13 +18,35 @@ Manage your ‘minions’, your brilliant ‘million dollar ideas’, and handle
 
 ## 🎯 Project Goal
 
-The goal of this project is to focus on Express routes. Starter files included everything except for the content of the server.js file. 
+The goal of this project is to focus on Express routes. Starter files included everything except for the contents server.js and the routes in the server folder. 
 
 ## 🕹️ How to Use
 
-First, open the root project directory in your terminal. Run npm install to install the dependencies of this project and build the front-end application. Once it has finished installing, you can run npm run start to begin your server. You’ll see Server listening on port 4001 in the terminal. The npm run start script will automatically restart your server whenever you make changes to the server.js file or server/ folder. If you want to turn this off, simply start your server with the node server.js command. You can kill either process with the Ctrl + C command.
+To get started, follow these steps:
 
-You should use Google Chrome (at least version 60) or Firefox (at least version 55). 
+1. Open the root project directory in your terminal.
+2. Run the following command to install the project dependencies and build the front-end application:
+
+    ```bash
+    npm install
+    ```
+
+4. Once the installation is complete, start the server with the following command:
+
+    ```bash
+    npm run start
+    ```
+
+4. Check your terminal for the message "Server listening on port 4001." This indicates that the server is running.
+5. The npm run start script will automatically restart the server whenever changes are made to the server.js file or the server/ folder. If you prefer to disable this feature, start your server using the following command:
+
+    ```bash
+    node server.js
+    ```
+
+6. To stop the server or the npm script, use the Ctrl + C command in your terminal.
+
+Make sure to use Google Chrome (version 60 or higher) or Firefox (version 55 or higher) for the best experience.
 
 ## 🧩 API Routes
 
@@ -66,8 +89,23 @@ You should use Google Chrome (at least version 60) or Firefox (at least version 
 </>
 
 ## 🧪 Testing
-A testing suite has been provided, checking for all essential functionality and edge cases.
+This project includes a testing suite that covers essential functionality and edge cases.
 
-To run these tests, first open the root project directory in your terminal. Then, run npm install to install all necessary testing dependencies (you will only need to do this step once).
+Follow these steps to run the tests:
 
-Finally, run npm run test. You will see a list of tests that ran with information about whether or not each test passed. After this list, you will see more specific output about why each failing test failed. While they are open in a terminal window, these tests will re-run every time you save server files. If you want to quit the testing loop, use Ctrl + C. If you only want to run the tests once, you can run the mocha command in the terminal from your project root directory.
+1. Open the root project directory in your terminal.
+2. Run the following command to install all necessary testing dependencies (perform this step only once):
+
+    ```bash
+    npm install
+    ```
+
+3. Execute the following command to run the tests:
+
+    ```bash
+    npm run test
+    ```
+
+4. The terminal will display a list of tests along with information on whether each test passed. If a test fails, additional specific output explaining the reason for the failure will be provided.
+5. While the terminal is open, the tests will automatically re-run each time you save server files. To exit the testing loop, use Ctrl + C.
+6. If you prefer to run the tests only once without the automatic re-run feature, you can do so and then exit the terminal.you can run the mocha command in the terminal from your project root directory.
