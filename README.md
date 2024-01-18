@@ -48,7 +48,7 @@ To get started, follow these steps:
 
 Make sure to use Google Chrome (version 60 or higher) or Firefox (version 55 or higher) for the best experience.
 
-## 🧩 API Routes
+## 🧩 API Endpoints
 
 **/api/minions** 
 
