@@ -18,7 +18,7 @@ Manage your ‘minions’, your brilliant ‘million dollar ideas’, and handle
 
 ## 🎯 Project Goal
 
-The goal of this project is to focus on Express routes. Starter files included everything except for the contents server.js and the routes in the server folder. 
+The goal of this project is to focus on Express routes. Starter files included everything except for the contents server.js and the routes in the server folder.
 
 ## 🕹️ How to Use
 
@@ -31,7 +31,7 @@ To get started, follow these steps:
     npm install
     ```
 
-4. Once the installation is complete, start the server with the following command:
+3. Once the installation is complete, start the server with the following command:
 
     ```bash
     npm run start
@@ -52,11 +52,12 @@ Make sure to use Google Chrome (version 60 or higher) or Firefox (version 55 or 
 
 **/api/minions** 
 
-* GET /api/minions to get an array of all minions. 
+* GET /api/minions to get an array of all minions.
 * POST /api/minions to create a new minion and save it to the database.  
 * GET /api/minions/:minionId to get a single minion by id.  
 * PUT /api/minions/:minionId to update a single minion by id.  
 * DELETE /api/minions/:minionId to delete a single minion by id.
+
 <div>  
 <img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/844f3e3f-0672-4a79-99c7-b18b102b86cf" alt="" width="32%"/>
 <img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/1204ee3b-c834-464a-9c36-efdfdbc8d576" alt="" width="32%"/>  
@@ -72,6 +73,7 @@ Make sure to use Google Chrome (version 60 or higher) or Firefox (version 55 or 
 * GET /api/ideas/:ideaId to get a single idea by id.  
 * PUT /api/ideas/:ideaId to update a single idea by id.  
 * DELETE /api/ideas/:ideaId to delete a single idea by id.
+
 <div> 
 <img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/d7f6195a-8037-4331-bcae-90e0e2a9da76" alt="" width="32%"/>
 <img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/3cdcaed0-b0f7-4b26-a271-d14fef89acdb" alt="" width="32%"/>
@@ -89,6 +91,7 @@ Make sure to use Google Chrome (version 60 or higher) or Firefox (version 55 or 
 </>
 
 ## 🧪 Testing
+
 This project includes a testing suite that covers essential functionality and edge cases.
 
 Follow these steps to run the tests:
