@@ -11,6 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)
 ![Static Badge](https://img.shields.io/badge/Mocha-grey?style=flat-square&logo=mocha)
 ![Static Badge](https://img.shields.io/badge/Codecademy%20Project-grey?style=flat-square&logo=codecademy)
+
+<br>
 </div>
 
 An API to serve information to a Boss Machine, a unique management application for today’s most accomplished (evil) entrepreneurs! 🦹🏼‍♀️  
