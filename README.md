@@ -2,7 +2,7 @@
 
 <img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/86742e26-be27-4534-a296-1cfecf7a0c84" width=350px />
   
-# A Codecademy Project from the Backend Engineer Career Path
+## A Codecademy Project from the Backend Engineer Career Path
 
 ![Static Badge](https://img.shields.io/badge/HTML5-grey?style=flat-square&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS3-grey?style=flat-square&logo=css3)
