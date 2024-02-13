@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/86742e26-be27-4534-a296-1cfecf7a0c84" width=350px />
+<img src="https://github.com/melissaveraherbst/boss-machine/assets/84316275/86742e26-be27-4534-a296-1cfecf7a0c84" width=40% />
   
 ## A Codecademy Pro Project from the Backend Engineer Career Path
 
